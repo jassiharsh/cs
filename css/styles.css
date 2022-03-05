@@ -1,0 +1,78 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family:'Merriweather' serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 90px;
+  margin-top: 0;
+  font-family:'sacramento',cursive;
+
+}
+
+h2 {
+  color: #66BFBF;
+  font-weight: normal;
+  font-family:'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family:'Merriweather' sans-serif;
+}
+
+p {
+  color: #66BFBF;
+  font-size: 40px;
+  font-family: cursive;
+
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  height:auto;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.skill-row {
+  width: 50%
+  margin: 100px auto 100px auto;
+  line-height: 2;
+
+}
+
+
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+
+}
+
+.code-img {
+  width: 25%;
+}
+.chillies-img {
+  width: 25%
+}
